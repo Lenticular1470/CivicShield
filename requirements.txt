@@ -1,0 +1,7 @@
+ultralytics
+opencv-contrib-python>=4.10,<5
+flask
+pyttsx3
+pandas
+numpy
+
